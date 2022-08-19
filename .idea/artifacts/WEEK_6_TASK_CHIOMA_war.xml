@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WEEK-6-TASK-CHIOMA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WEEK-6-TASK-CHIOMA</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WEEK-6-TASK-CHIOMA-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WEEK-6-TASK-CHIOMA:war exploded" />
+    </root>
+  </artifact>
+</component>
